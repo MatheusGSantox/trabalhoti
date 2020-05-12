@@ -25,7 +25,7 @@
     
     #verde {
     top: 0px;
-    right:100px; text-align: center;width: 400px; float:left; height: 600px; overflow-x:hidden;overflow-y:auto;background-color: #fff;  border: 4px solid CDFFD2; opacity: 0.85;border: 6px solid #5DB566;
+    right:100px; text-align: center;width: 400px; float:left; height: 600px; overflow-x:hidden;overflow-y:auto;background-color: #fff;  border: 4px solid CDFFD2; opacity: 0.85;
     }
     
     </style>
